@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#0b1120;
+    background:#303542;
     color:white;
     min-height:100vh;
     padding:30px;
@@ -20,7 +20,7 @@ h1{
 
 .subtitle{
     text-align:center;
-    color:#94a3b8;
+    color:#517cb8;
     margin-bottom:40px;
 }
 
@@ -45,7 +45,7 @@ h1{
 
 .metric-title{
     font-size:1.1rem;
-    color:rgb(22, 121, 213);
+    color:rgb(19, 25, 29);
     margin-bottom:15px;
 }
 
